@@ -252,7 +252,6 @@
     "wd:wordcount":118,
     "wof:belongsto":[
         85632587,
-        85681325,
         102191583,
         136253055
     ],
@@ -273,14 +272,13 @@
             "country_id":-1,
             "dependency_id":85632587,
             "empire_id":136253055,
-            "locality_id":890440159,
-            "region_id":85681325
+            "locality_id":890440159
         }
     ],
     "wof:id":890440159,
     "wof:lastmodified":1690855776,
     "wof:name":"Adamstown",
-    "wof:parent_id":85681325,
+    "wof:parent_id":85632587,
     "wof:placetype":"locality",
     "wof:population":46,
     "wof:population_rank":1,
